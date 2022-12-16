@@ -1,0 +1,9 @@
+/////
+FOR:sirve para crear un bucle de codigo y no repetirse de uno en uno}
+////
+&&:El operador logico "AND" sirve para comparar si ambas variables son true o false si uno de las variables el fase dara false si ambas variables son true dara true
+////
+||:El operador logico "OR" sirve para comparar si ambas variables son true o false si una de las variables es true dara true si ambas variables son false dara false
+////
+!:El operador logico "NOT" sirve para declaraar que una varieble 'No es true o false' ejemplo si declaro !true dara false ya que estoy declarando que la varieble 'No es true'
+//// 
